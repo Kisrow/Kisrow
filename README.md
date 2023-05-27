@@ -1,6 +1,6 @@
 <h1 align="center">Привет всем! Я Влад
 <img src="./images/Hi.gif" height="32"/></h1>
-<h3 align="center">Фронтенд - разработчик🇺</h3>
+<h3 align="center">Фронтенд - разработчик</h3>
 
 <!--
 **Kisrow/Kisrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
