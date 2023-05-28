@@ -5,6 +5,7 @@
   <li>Хочу развиваться в этой сфере и стать классным специалистом</li>
   <li>Самостоятельно изучаю библиотеки и фреймворки, такие как Redux</li>
   <li>Хочу писать читабельный и оптимизированный код</li>
+  <li>Cтремлюсь попасть в большую компанию, чтобы делать интересные проекты</li>
 </ul>
 <h3 align="center">Мой стек технологий</h3>
 <div align="center">
@@ -14,6 +15,11 @@
   <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=#E34F26" height="32px"/>
   <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=#1572B6" height="32px"/>
 </div>
+<h3>Со мной можно связаться:</h3>
+<ul>
+  <li>Email: KuznetsovVS1997@gmail.com</li>
+  <li>Telegram: @KuznetsovVS1997</li>
+</ul>
 
 
 <!--
