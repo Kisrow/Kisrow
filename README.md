@@ -8,7 +8,7 @@
 </ul>
 <h3 align="center">Мой стек технологий</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" height="32px"/?
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" height="32px"/>
 </div>
 
 
