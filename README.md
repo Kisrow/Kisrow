@@ -9,6 +9,10 @@
 <h3 align="center">Мой стек технологий</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" height="32px"/>
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=#61DAFB" height="32px"/>
+  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=#47A248" height="32px"/>
+  <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=#E34F26" height="32px"/>
+  <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=#1572B6" height="32px"/>
 </div>
 
 
