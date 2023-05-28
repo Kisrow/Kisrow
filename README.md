@@ -17,8 +17,8 @@
 </div>
 <h3>Со мной можно связаться:</h3>
 <ul>
-  <li>Email: KuznetsovVS1997@gmail.com</li>
-  <li>Telegram: @KuznetsovVS1997</li>
+  <li>Email: <a href="https://mail/to/KuznetsovVS1997@gmail.com" target="_blank">KuznetsovVS1997@gmail.com</a></li>
+  <li>Telegram: <a href="https://t.me/KuznetsovVS1997" target="_blank">@KuznetsovVS1997</a></li>
 </ul>
 
 
