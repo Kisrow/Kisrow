@@ -3,7 +3,7 @@
 
 # 👋 Привет, я Влад!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Exploring+how+things+work;Works+on+my+machine!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Exploring+how+things+work;Works+on+my+machine!)
 
 *Пишу код. Разбираюсь, как он работает. Иногда жалею, что начал разбираться.*
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 Немного обо мне
+## 👨‍💻 Немного обо мне
 
 Я **Frontend-разработчик**. Создаю интерфейсы, разбираюсь в сложных системах и периодически задаюсь вопросом:
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Технологический стек
+## 🛠️ Мой технологический арсенал
 
 ### Frontend
 
@@ -42,17 +42,31 @@
 
 ### State Management
 
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Effector](https://img.shields.io/badge/Effector-222222?style=for-the-badge)
 
-### Tools & Backend
+### Styling
+
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Emotion](https://img.shields.io/badge/Emotion-D26AC2?style=for-the-badge)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+
+### Tools & Testing
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![RTL](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
+### Backend & Other
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
